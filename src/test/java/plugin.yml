@@ -1,0 +1,10 @@
+name: Craftok-JumpLeague
+author: Sithey
+version: 1.0
+main: eu.craftok.jumpleague.JLMain
+depend:
+  - Craftok-Core
+  - Craftok-CoinsBooster
+commands:
+  start:
+  stats:
